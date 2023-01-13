@@ -1,7 +1,4 @@
-### Hi there 👋
-
-###Olá! Eu sou  Gabriel Silva Mendes👨‍💻
-Tenho 24 anos
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=D2DC25&background=123E3A&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1!+Eu+sou++Gabriel+Silva+Mendes;Desenvolvedor+Front-End;Tenho+24+anos)](https://git.io/typing-svg)
 
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=g-smendes&show_icons=true&theme=dark)
