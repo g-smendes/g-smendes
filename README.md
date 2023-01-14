@@ -1,8 +1,9 @@
 <div>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-smendes&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-
-
+<div  align="center"> 
+  <h1 align="center">Meu nome é Gabriel Silva Mendes, tenho 24 anos, sou estudante de Engenharia de Software na faculdade Unicesumar<br></h1>
+</div>
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=g-smendes&show_icons=true&theme=dark)
 <div  align="center"> 
     <h1 align="center">Tecnologias que utilizo na máquina no meu dia a dia</h1>
