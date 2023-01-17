@@ -10,6 +10,7 @@
   <img align="left" height="200%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-smendes&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
+  https://github-readme-stats.vercel.app/api?username=g-smendes&show_icons=true&theme=dark
   
   
   <br>
