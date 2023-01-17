@@ -11,7 +11,7 @@
 </div>
 
 
-![Gabriel Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=g-smendes&show_icons=true&theme=radical)
+![Gabriel Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=g-smendes&show_icons=true&theme=dark)
  
 
 <div  align="center"> 
