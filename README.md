@@ -9,7 +9,7 @@
 <div>
   <img align="left" height="200%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-smendes&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-
+<br/>
 
 <div  align="center"> 
     <h1 align="center">Tecnologias que utilizo na máquina no meu dia a dia</h1>
