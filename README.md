@@ -24,7 +24,7 @@
    </div>
    <div  align="center"> 
     <h1 align="center">Projetos Realizados</h1>
-     https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org
+     :briefcase: <a href="https://nutricionistajordanealves.netlify.app/">Projeto Porfolio Nutrição</a>
   </div>
 <br/>
 <div style="display: inline_block"><br/>
