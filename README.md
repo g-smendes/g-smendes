@@ -1,9 +1,5 @@
 
-
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-<br>
-<img alt="Coder GIF" height=450 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="right"/>
-<div align="top"><h3>Meu nome é Gabriel Silva Mendes, tenho 26 anos, Engenheiro de Software, Desenvolvedor Front-End / Infra.
+<div align="top"><h3>Meu nome é Gabriel Silva Mendes, tenho 27 anos, Engenheiro de Software, Desenvolvedor Front-End / Infra.
 
 <br>
 <div>
