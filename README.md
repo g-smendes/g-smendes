@@ -35,17 +35,6 @@ Formado em Engenharia de Software, atualmente atuo como Analista de Sistemas com
 
 ---
 
-### 📂 Projetos em destaque
-
-| Projeto | Tecnologia |
-|---|---|
-| [GabrielDeveloperPortfolio](https://github.com/g-smendes/GabrielDeveloperPortfolio) | HTML |
-| [Calculadora-IMC](https://github.com/g-smendes/Calculadora-IMC) | CSS · JS |
-| [ContadorDePassos](https://github.com/g-smendes/ContadorDePassos) | JavaScript |
-| [Verificador-de-Idade](https://github.com/g-smendes/Verificador-de-Idade) | JavaScript |
-
----
-
 ### 📬 Contato
 
 <div align="center">
