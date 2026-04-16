@@ -23,23 +23,6 @@ Formado em Engenharia de Software, atualmente atuo como Analista de Sistemas com
 - 💻 Stack principal: **JavaScript · TypeScript · React · HTML · CSS**
 - 🚀 Sempre aprendendo e construindo projetos práticos
 
----
-
-### 🛠️ Tecnologias do dia a dia
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><br/>JavaScript</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/><br/>TypeScript</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><br/>React</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><br/>HTML5</td>
-    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><br/>CSS3</td>
-  </tr>
-</table>
-</div>
-
----
 
 ### 📊 GitHub Stats
 
