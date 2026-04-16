@@ -28,13 +28,15 @@ Formado em Engenharia de Software, atualmente atuo como Analista de Sistemas com
 ### 🛠️ Tecnologias do dia a dia
 
 <div align="center">
-
-<img height="40" width="50" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-<img height="40" width="50" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-<img height="40" width="50" alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-<img height="40" width="50" alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img height="40" width="50" alt="CSS3" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-
+<table>
+  <tr>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><br/>JavaScript</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/><br/>TypeScript</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><br/>React</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><br/>HTML5</td>
+    <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/><br/>CSS3</td>
+  </tr>
+</table>
 </div>
 
 ---
